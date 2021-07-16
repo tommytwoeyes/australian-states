@@ -16,6 +16,17 @@
       }
     },
     {
+      "type": "Point",
+      "id": 11773,
+      "properties": {
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": (159.105720, -31.563794),
+      }
+    },
+    {
       "type": "Feature",
       "id": 1,
       "properties": {
